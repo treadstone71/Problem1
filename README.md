@@ -1,6 +1,6 @@
 # Requirements:
 
-[Node.js](https://nodejs.org/)
+[Node.js](https://nodejs.org/) > 4
 
 # Steps to run:
 
